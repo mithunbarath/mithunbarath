@@ -59,6 +59,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+<img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white" alt="keras"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/>
 <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
 </p>
