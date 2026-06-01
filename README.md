@@ -7,7 +7,7 @@
 
 🤝 I’m looking to collaborate on Open Source projects involving **Python, FastAPI, and Vector Databases**.
 
-👨‍💻 All of my research and projects are available on my [Portfolio](https://mithunbarath.github.io/).
+👨‍💻 All of my research and projects are available on my [Portfolio](https://mithunbarath.netlify.app/).
 
 💬 Ask me about **Computer Vision in Healthcare, Clinical NLP, or System Design**.
 
